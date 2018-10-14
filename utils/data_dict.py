@@ -1,6 +1,7 @@
 # https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90
 from pprint import pprint
 
+
 def data_dict(df, col_name):
     data_dict = {
         'sentiment':{

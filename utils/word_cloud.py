@@ -1,5 +1,4 @@
-from wordcloud import WordCloud
-
+from wordcloud import *
 
 def word_cloud(df):
     neg_tweets = df[df.target == 0]

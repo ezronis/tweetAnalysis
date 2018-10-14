@@ -1,8 +1,9 @@
-pandas
-numpy
-matplotlib
-preprocess
-lxml
-nltk
-bs4
-pprint
+pandas >= 0.19.2
+numpy >= 1.6.1
+matplotlib >= 2.0.0
+preprocess >= 1.1.0
+lxml >= 3.2.7
+nltk >= 3.2.2
+bs4 >= 0.0.1
+pprint >= 0.1
+wordcloud >= 0.46

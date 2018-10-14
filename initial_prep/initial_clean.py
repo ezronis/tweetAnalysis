@@ -1,7 +1,8 @@
-from utils.df_methods import *
+from tweetAnalysis.utils.df_methods import *
 
 
-cols = ['sentiment','id','date','location','username','text', 'isRetweet']
+cols = ['sentiment','id','date','location',
+        'username','text', 'isRetweet']
 
 # loading data from json
 df = json_to_df('data/tweets.json')
