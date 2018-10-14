@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+preprocess
+lxml
+nltk
+bs4
+pprint
